@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in programming, gaming, hiking and playing basketball. I also like to vacuum, which is odd.
 
-- 🌱 I’m currently learning Python, SQL and Django.
+- 🌱 I’m currently learning Python, SQL and OpenAI API.
   
 - 💞️ I’m looking to collaborate on nothing currently. Unless You have something interesting for me!
   
