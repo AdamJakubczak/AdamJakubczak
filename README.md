@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam!
   
-- 👀 I’m interested in programming, gaming, hiking and playing basketball. I also like to vacuum, which is odd.
+- 👀 I’m interested in programming, gaming, cooking and basketball. I like putting stuff into dishwasher and vacuming sometimes, which is odd.
 
 - 🌱 I’m currently learning Python, SQL and AI Agency.
   
